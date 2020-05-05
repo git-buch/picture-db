@@ -1,2 +1,3 @@
-# ci-docker
-Continuous integration demo with docker images
+# picture-db
+
+Simple Node.js Web-Application
